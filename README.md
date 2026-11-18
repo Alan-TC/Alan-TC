@@ -13,9 +13,6 @@ Também tenho base em **C, C++ e Python** e **Machine Learning**, o que amplia m
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/Alan-TC">
-    <img src="assets/badges/GitHub.svg" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/alan-teixeira-b1a038398">
     <img src="assets/badges/LinkedIn.svg" alt="LinkedIn" />
   </a>
